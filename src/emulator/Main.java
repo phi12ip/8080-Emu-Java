@@ -1,5 +1,3 @@
-package emulator;
-
 
 import java.time.Instant;
 

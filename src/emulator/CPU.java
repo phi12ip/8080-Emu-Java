@@ -1,5 +1,3 @@
-package emulator;
-
 public class CPU {
 	short a;
 	short b;
